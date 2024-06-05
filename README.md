@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Haikal</h1>
+<h1 align="center">Hi, I'm Muhammad Haikal 👋</h1>
 <h3 align="center">I'm a student at Universitas Negeri Semarang (UNNES) with a strong passion for Game Development</h3>
 
 <img align="right" alt="kucing" width="400" src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-85.gif">
