@@ -1,8 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Muhammad Haikal</h1>
-<h3 align="center">I'm a student at Universitas Negeri Semarang (UNNES) with a strong passion for Game Development and Full Stack Development. Over the past four semesters, I've acquired a diverse set of skills and experience in various programming languages and frameworks.</h3>
+<h3 align="center">I'm a student at Universitas Negeri Semarang (UNNES) with a strong passion for Game Development</h3>
 
-<img align="right" alt="kucing" width="400" src"https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JkMm8yajR4MmlzdGQyejJidWhidmduYjMxMm55bWM0NHg5MjlzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kkEmNte4tRmZ0fgBhE/giphy.webp">
+<img align="right" alt="kucing" width="400" src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-85.gif">
 
 - 🔭 I’m currently working on [GEMASTIK 2024 - "Guardian Forest Project"](https://github.com/icekimo49/GuardianForest)
 
@@ -12,7 +11,7 @@
 
 - 📫 You can reach me **hm727249@gmail.com**
 
-- 🤝 Thankyou for visiting! [Let's Be Friend!](Let's Be Friend!)
+- 🤝 Thankyou for visiting! Let's Be Friend!
 
 - ⚡ Fun fact **I love blending my entry level music skill with game development by creating unique soundtracks for my projects.**
 
