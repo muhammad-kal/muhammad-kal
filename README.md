@@ -11,7 +11,7 @@
 
 - 📫 You can reach me **hm727249@gmail.com**
 
-- 🤝 Thankyou for visiting! Let's Be Friend!
+- 🤝 Thankyou for visiting! Let's be Friend!
 
 - ⚡ Fun fact **I love blending my entry level music skill with game development by creating unique soundtracks for my projects.**
 
