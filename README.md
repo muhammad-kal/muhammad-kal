@@ -101,7 +101,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
+<!--   <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  /> -->
 </div>
 
 ###
