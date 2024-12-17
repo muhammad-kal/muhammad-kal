@@ -3,7 +3,7 @@
 
 <img align="right" alt="kucing" width="400" src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-85.gif">
 
-- 🔭 I’m currently working on [GEMASTIK 2024 - "Guardian Forest Project"](https://github.com/icekimo49/GuardianForest)
+- 🔭 I’m currently working on [GEMASTIK 2024 - "Guardian Forest Project"](https://github.com/muhammad-kal/GuardianForest)
 
 - 🌱 I’m currently learning **Machine Learning and OpenGL Shading Language**
 
@@ -24,8 +24,8 @@
 ###
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=icekimo49&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=icekimo49&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=muhammad-kal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-kal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -118,12 +118,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/icekimo49/icekimo49/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/muhammad-kal/muhammad-kal/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/icekimo49/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/muhammad-kal/count.svg?"  />
 </div>
 
 ###
