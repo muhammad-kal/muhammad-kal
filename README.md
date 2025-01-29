@@ -118,7 +118,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/muhammad-kal/muhammad-kal/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/muhammad-kal/output/snake.svg" alt="Snake animation" />
 
 ###
 
