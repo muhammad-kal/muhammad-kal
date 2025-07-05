@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/muhammad haikal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad haikal" height="30" width="40" /></a>
+<a href="https://web.facebook.com/profile.php?id=100016884391299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad haikal" height="30" width="40" /></a>
 <a href="https://instagram.com/_muhammadha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_muhammadha_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammadhaikal-mh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="muhammad haikal" height="30" width="40" /></a>
 </p>
